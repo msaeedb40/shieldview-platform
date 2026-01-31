@@ -1,0 +1,9 @@
+fastapi
+pytest
+uvicorn
+httpx
+numpy
+pandas
+structlog
+sse-starlette
+redis

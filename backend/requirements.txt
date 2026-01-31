@@ -1,0 +1,8 @@
+django
+httpx
+pytest
+psycopg2-binary
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+dj-database-url
